@@ -1,0 +1,17 @@
+.about-us {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+
+.about-us h4 {
+  padding-bottom: 1rem;
+}
+.about-us p {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+  .about-us {
+    margin: 4rem 2rem;
+  }
+}
